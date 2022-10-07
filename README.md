@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Boitumelo ![IMG20220613124019](https://user-images.githubusercontent.com/115297541/194625882-d0f2ff2e-d888-4cde-8ee1-4cf1e6666612.jpg =250*250)
+- 👋 Hi, I’m Boitumelo ![IMG20220613124019](https://user-images.githubusercontent.com/115297541/194625882-d0f2ff2e-d888-4cde-8ee1-4cf1e6666612.jpg)
 
 - 👀 I’m interested in coding and IT tech
 - 🌱 I’m currently learning C# ,HTML ,and CSS
